@@ -493,7 +493,7 @@ export const PRODUCTS = [
  {
   "n": "Ventilador Portátil de Cuello",
   "c": "TECNOLOGIA",
-  "p": null,
+  "p": 55000,
   "f": [
    "Portátil",
    "Se usa en el cuello"
