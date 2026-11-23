@@ -1,0 +1,15 @@
+node_modules/
+
+.vercel
+
+# Archivos privados y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+dist/
